@@ -6,7 +6,6 @@ html{
 h1{
   font-size: 70px;
   font-weight: bold;
-  color: white;
 }
 
 h2{
@@ -25,9 +24,10 @@ p{
 
 .header{
   background-image: url("./resources/images/the-flatiron-building.png");
+  color: white;
 }
 
-.top-list{
+.top-list li{
   text-decoration: underline;
   font-size: 18px;
   color: white;

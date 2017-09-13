@@ -33,18 +33,19 @@ p{
   color: white;
 }
 
-#footer{
+.footer{
   background-color: dimgray;
   text-align: left;
 }
 .copy{
   font-size: 11px;
   color: white;
-
+text-align: left;
 }
 
 .bottom-list{
   text-decoration: underline;
   font-size: 18px;
   color: white;
+  text-align: left;
 }

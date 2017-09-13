@@ -33,11 +33,11 @@ p{
   color: white;
 }
 
-.footer{
+#footer{
   background-color: dimgray;
+  text-align: left;
 }
 .copy{
-  text-align: left;
   font-size: 11px;
   color: white;
 
@@ -47,5 +47,4 @@ p{
   text-decoration: underline;
   font-size: 18px;
   color: white;
-  text-align: left;
 }

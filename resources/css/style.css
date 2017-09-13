@@ -35,4 +35,14 @@ p{
 
 .copy{
   text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.bottom-list{
+  text-decoration: underline;
+  font-size: 18px;
+  color: white;
+  text-align: left;
 }
